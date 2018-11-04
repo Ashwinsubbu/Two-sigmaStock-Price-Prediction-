@@ -28,3 +28,6 @@ Light GBM grows tree vertically while other algorithm grows trees horizontally m
 
 
 ### Learning Curves to determine the optimal training sample size
+
+## Conclusion 
+Developed a Confidence Value for all stocks on a particular day ranging between -1 to 1 depending on its ability to make a profit which was predicted from its past market and news data. Predicted the outcome with an accuracy of 65.787% 
